@@ -22,3 +22,4 @@ export PATH=$PATH:$PS2DEV/bin:$PS2DEV/ee/bin:$PS2DEV/iop/bin:$PS2DEV/dvp/bin:$PS
 - https://github.com/ps2dev/ps2dev
 - https://github.com/ps2dev/ps2sdk
 - https://github.com/jur/ps2tut_01
+- [pcsx2](https://pcsx2.net/)
